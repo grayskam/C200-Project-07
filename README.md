@@ -27,4 +27,4 @@ I would give it a five as it still finishes out the main goal of the game.
 ## Future Development
 I wanted to figure out how to give the Villain Fireballs but it would work however making it not complete in my eyes.
 
-# Created by: Kameron Grays
+# Created by: Kam Grays
