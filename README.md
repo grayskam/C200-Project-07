@@ -11,7 +11,7 @@ Shoot the villain and avoid his acid touch to reach the end game portal.
 
 ## What did you 
 Struggles or surprises you encountered during the development of the game
-Alot of trouble shooting errors.
+Alot of trouble shooting alot of errors. made me go through a bit of Youtube which even taught me some more about coding.
 
 ## Implementation
 Features
